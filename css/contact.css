@@ -1,0 +1,36 @@
+.contact {
+    padding: 100px 20px;
+}
+
+textarea, input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border: 1px solid #f0e9ff;
+    border-radius: 5px;
+    height: 48px;
+    padding-left: 10px;
+    font-size: 13px;
+    background: transparent;
+}
+
+textarea:focus,
+input:focus {
+    outline: 0;
+    box-shadow: none;
+}
+
+.half-row {
+    width: 50%;
+    float: left;
+    box-sizing: border-box;
+}
+
+.contact_firstname {
+    padding-right: 30px ;
+}
+
+.contact-send {
+    margin-top: 30px;
+}
